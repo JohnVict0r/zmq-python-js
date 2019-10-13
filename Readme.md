@@ -1,6 +1,6 @@
 # ZMQ - Python + Javascript
 
-#c onfiguration
+# Configuration
 
 `$ npm install zeromq`
 
