@@ -6,6 +6,7 @@
 
 `$ pip install -r requiriments.py`
 
+#Run
 `$ python Server.py`
 
 `$ node Client.js`
