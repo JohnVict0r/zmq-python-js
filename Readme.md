@@ -1,12 +1,13 @@
-#ZMQ - Python + Javascript
+# ZMQ - Python + Javascript
 
-#configuration
+#c onfiguration
 
 `$ npm install zeromq`
 
 `$ pip install -r requiriments.py`
 
-#Run
+# Run
+
 `$ python Server.py`
 
 `$ node Client.js`
